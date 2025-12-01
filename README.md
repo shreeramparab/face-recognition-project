@@ -11,21 +11,21 @@
 ### 1. Upload & Detection
 Shows how users can upload an image and the system detects facial landmarks.
 
-![Upload Screenshot](/face.png)
+![Upload Screenshot](/Images/face.png)
 
 ---
 
 ### 2. Landmark Visualization
 Displays the face with **68 green landmark points** plotted.
 
-![Landmark Screenshot](/landmark.png)
+![Landmark Screenshot](/Images/landmark.png)
 
 ---
 
 ### 3. Golden Ratio Analysis
 Illustrates the console output with ratio comparisons and overall symmetry score.
 
-![Analysis Screenshot](/Overall.png)
+![Analysis Screenshot](/Images/Overall.png)
 
 ---
 
