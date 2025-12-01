@@ -11,21 +11,21 @@
 ### 1. Upload & Detection
 Shows how users can upload an image and the system detects facial landmarks.
 
-![Upload Screenshot](/examples/sample.jpg)
+![Upload Screenshot](/face.png)
 
 ---
 
 ### 2. Landmark Visualization
 Displays the face with **68 green landmark points** plotted.
 
-![Landmark Screenshot](/map/landmarks.jpg)
+![Landmark Screenshot](/landmark.png)
 
 ---
 
 ### 3. Golden Ratio Analysis
 Illustrates the console output with ratio comparisons and overall symmetry score.
 
-![Analysis Screenshot](/map/analysis.jpg)
+![Analysis Screenshot](/Overall.png)
 
 ---
 
@@ -57,6 +57,11 @@ Illustrates the console output with ratio comparisons and overall symmetry score
 
 Clone the repository:
 
+Tip :
+Run the code on Google Colab
 ```bash
 git clone https://github.com/shreeramparab/face-recognition-project.git
-cd face-recognition-project
+cd face-recognition-project 
+
+
+ 
